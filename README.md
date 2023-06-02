@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Camilla Lacerda
-
+- 🔭 Em busca da minha primeira oportunidade como desenvolvedora Front-end
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 - 😄 Pronouns: ela/dela
 
@@ -8,12 +8,14 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camislacerr&hide=less,scss&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<div>
   <div style="display: inline_block">
     <h1>Minhas Tecnologias </h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div> 
+</div>
 
 <div>
 <h1>Redes Sociais</h1>
